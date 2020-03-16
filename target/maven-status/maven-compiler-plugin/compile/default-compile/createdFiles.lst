@@ -1,0 +1,16 @@
+com\web\jpa\onetoone\Wife.class
+com\web\jpa\onetoone\Husband_.class
+com\web\jpa\single\PersonService.class
+com\web\jpa\single\Person_.class
+com\web\jpa\single\Person.class
+com\web\jpa\onetoone\WifeRepository.class
+com\web\jpa\onetoone\Wife_.class
+com\web\jpa\onetoone\Husband.class
+com\web\jpa\onetoone\HusbandRepository.class
+com\web\jpa\single\Person_CRUD.class
+com\web\jpa\single\PersonRepository.class
+com\web\jpa\single\Test_add.class
+com\web\jpa\single\Test_query.class
+com\web\jpa\AppConfig.class
+com\web\jpa\onetoone\FamilyService.class
+com\web\jpa\onetoone\Family_CRUD.class
